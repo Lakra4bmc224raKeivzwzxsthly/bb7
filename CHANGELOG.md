@@ -5,3 +5,4 @@ Refactor codebase with Z [dW1vf4] line 4.1
 Refactor codebase with Z [Wydxa7] line 5.1
 Refactor codebase with Z [Wydxa7] line 5.2
 Improve performance [1ZvPdr] line 11.1
+Update documentation [HYngTo] line 14.3
