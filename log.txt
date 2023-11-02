@@ -2,3 +2,4 @@ Fix issue in Y [ey7DFt] line 2.1
 Update documentation [0HeRch] line 3.2
 Refactor codebase with Z [M0TviD] line 12.1
 Refactor codebase with Z [M0TviD] line 12.2
+Update documentation [cSYE3G] line 13.1
